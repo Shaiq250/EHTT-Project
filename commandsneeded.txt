@@ -1,0 +1,3 @@
+stop                 -- for terminating code
+start_front_camera   --  to start front camera
+lock_screen          --  to lock the screen
