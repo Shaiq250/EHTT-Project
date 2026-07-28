@@ -1,3 +1,0 @@
-Hostname: DESKTOP-1GD0JK9
-Private IP Address: 172.16.75.201
-Public IP Address: 110.38.229.3
