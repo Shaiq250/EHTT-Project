@@ -92,7 +92,6 @@ python FINAL_CODE.py
 ## 📂 Project Structure
 
 *   **`FINAL_CODE.py`**: The primary payload containing all malware logic.
-*   **`code.py`**: Earlier development version.
 *   **`project report.pdf`**: Detailed academic report on the tool's architecture.
 *   **`commandsneeded.txt`**: List of commands understood by the C2.
 
